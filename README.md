@@ -51,7 +51,7 @@ Example:
 import asyncio
 from WhatsApp_auto-bot import test_whatsapp_message_keyboard_only_v5
 
-asyncio.run(test_whatsapp_message_keyboard_only_v5(contact_name='Alice', message='Hello!'))
+asyncio.run(test_whatsapp_message_keyboard_only_v5(contact_name='SHLOK', message='Hello!'))
 ```
 
 **Notes & Troubleshooting**
